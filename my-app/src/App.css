@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem;
+}
+
+.header-logo {
+  margin: 2rem auto;
+  max-width: 50vw;
+}
+
+a {
+  text-align: center;
+}
+
+

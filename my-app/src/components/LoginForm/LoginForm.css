@@ -1,0 +1,11 @@
+.success-container,
+.error-container {
+    color: red;
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.success-container {
+    color: rgb(115, 255, 0);
+}

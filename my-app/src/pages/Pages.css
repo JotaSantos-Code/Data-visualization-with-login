@@ -1,0 +1,50 @@
+/* Landing */
+
+.landing-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 8rem;
+  color: rgb(66, 64, 64);
+}
+
+.link-container {
+  display: flex;
+}
+
+.landing-subtitle {
+  margin-right: 0.3rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+}
+
+/* Login */
+.login-page {
+  margin: 6rem auto;
+  max-width: 400px;
+}
+
+
+/* Data */
+
+
+.data-container {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem auto;
+}
+
+h2 {
+  color: rgb(66, 64, 64);
+  text-align: center;
+}
+
+.chart-title {
+  margin-top: 4rem;
+}
